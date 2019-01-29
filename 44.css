@@ -1,0 +1,101 @@
+.moji p{
+    color: darkslategrey;
+}
+
+
+.menu{
+    height: 120px;
+}
+
+.menu ul{
+    display: flex;
+    padding-right: 100px;
+}
+
+#m1{
+    margin-right: auto;
+}
+
+.menu li{
+    list-style: none;
+    padding-right: 10px;
+    border-right: solid 1px #aaaaaa;
+    padding-left: 8px;
+}
+
+#kesu{
+    border-right: none;
+}
+#m1{
+    border-right: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.85em;
+}
+
+.menu a:hover{
+    color: gray;
+}
+
+
+.contents{
+    background-image: url(44photo1.jpg);
+    height: 480px;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+.contents h1{
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.contents p{
+    color: white;
+    margin-left: 65px;
+    font-size: 20px;
+    
+}
+
+.contents button{
+    border: double 4px black;
+    margin-left: 75px;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.contents button:hover{
+    color:darkgray;
+    transition: all 0.3s ease;
+}
+
+
+.contents2{
+margin-top: 50px;
+border: dashed 4px black;
+height: 280px;
+margin: 0 auto;
+}
+
+.hako{
+    margin:;
+    width: 820px;
+    height: 
+}
+
+.contents2{
+   -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl; 
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+#haiku{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
